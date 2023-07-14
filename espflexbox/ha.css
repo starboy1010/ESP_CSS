@@ -1,0 +1,20 @@
+#la{
+    border: 3px solid black;
+    height: 200px;
+    width: 200px;
+}
+#va{
+    border: 3px solid yellow; 
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#gaga{
+    margin-left: 45px;
+    margin-top: 45px;
+
+}
+background{
+    color: brown;
+}
