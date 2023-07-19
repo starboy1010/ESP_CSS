@@ -11,7 +11,8 @@
     margin-top: 30px;
 }
 #a1{
-
+border-radius: 10px;
+background-color: black;
     width: 300px;
     margin: auto;
     padding-bottom: 20px;
