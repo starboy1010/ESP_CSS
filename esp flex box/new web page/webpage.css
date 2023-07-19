@@ -21,16 +21,17 @@
     margin-bottom: 20px;
     padding-bottom: 20px;
     box-shadow: rgba(221, 221, 242, 0.49) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px;
+    background-color: white;
 
     
 }
 p{
     text-align: center;
-    color: white;
+    color: rgb(8, 8, 8);
 }
 h3{
     text-align: center;
-    color: white;
+    color: rgb(8, 7, 7);
 
 }
 button{
@@ -56,7 +57,7 @@ h1{
     margin: 50px;
 }
 h2{
-    color: white;
+    color: rgba(242, 237, 237, 0.999);
     text-align: center;
     font-style: bold;
     box-sizing: border-box;

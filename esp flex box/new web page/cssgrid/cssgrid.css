@@ -1,0 +1,17 @@
+.m{
+    background-color: rgb(176, 225, 240);
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    display: grid;
+}
+.bc{
+    grid-template-columns: auto auto ;
+    justify-content: center;
+    display: grid;
+    background-color: rgb(63, 196, 34);
+    height: 410px;
+    width: 410px;
+
+}
