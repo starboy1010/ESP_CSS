@@ -1,0 +1,27 @@
+#b1{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    height: 400px;
+    width: 400px;
+    gap: 10px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    margin-bottom: auto;
+
+}
+.a1{
+    background-color: blue;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+
+}
+#a6{
+        clip-path: circle(50%);
+}
