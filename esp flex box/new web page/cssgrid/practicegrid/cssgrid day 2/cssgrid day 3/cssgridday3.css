@@ -1,0 +1,24 @@
+.a{
+  background-color: orange;
+  height: 200px;
+  color: orange;
+}
+.c{
+  background-color: green;
+  height: 200px;
+  color: green;
+}
+#w{
+  background-color: white;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.bc{
+  width: 100%;
+  border: 2px solid black;
+}
+img{
+  height: 200px;
+}
