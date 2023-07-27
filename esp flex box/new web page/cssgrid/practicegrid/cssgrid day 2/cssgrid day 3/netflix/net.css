@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#a1{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.a2>img{
+    height: 288px;
+    width: 192px;
+    border-radius: 15px;
+    box-shadow: rgb(249, 2, 2) 2.4px 2.4px 3.2px;
+}
+/* .a2>img:hover{
+    transform:scale(1.15);
+    transition: 0.5s;
+} */
+.a2{
+   /* margin-top: 20px; */
+}
+#b1{
+    grid-column: span 2;
+    border: 2px ;
+}
+body{
+    color: black;
+    background-color: black;
+  }
+#b1>img{
+    width: 384px;
+    height: 288px;
+   display: grid;
+   justify-content: center;
+   text-align: center;
+   box-shadow: rgb(16, 14, 14) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
