@@ -11,6 +11,9 @@
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
+    height: 950px;
+    width: 1200px;
+
 }
 .a2>img{
     height: 288px;
@@ -18,26 +21,26 @@
     border-radius: 15px;
     box-shadow: rgb(249, 2, 2) 2.4px 2.4px 3.2px;
 }
-/* .a2>img:hover{
+.a2>img:hover{
     transform:scale(1.15);
-    transition: 0.5s;
-} */
+    transition: 0.5s; 
+}
 .a2{
    /* margin-top: 20px; */
 }
 #b1{
     grid-column: span 2;
-    border: 2px ;
+    /* border: 2px ; */
+    height: 288px;
+    width: 192px;
 }
 body{
     color: black;
-    background-color: black;
+    background-color:black;
   }
 #b1>img{
-    width: 384px;
-    height: 288px;
-   display: grid;
-   justify-content: center;
-   text-align: center;
+  width: 384px;
+  height: 288px;
    box-shadow: rgb(16, 14, 14) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+   padding-left: 15px;
 }

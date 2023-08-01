@@ -1,0 +1,48 @@
+body{
+    background:url(https://wallpapertag.com/wallpaper/full/a/2/c/135755-full-size-aqua-background-2048x1152.jpg);
+    background-size: auto;
+}
+#large{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-left: 400px;
+    background-color: (circle ,253, 132, 249), rbg(circle,242, 83, 109);
+}
+img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.big{
+    background-color: rgb(255, 255, 255);
+    height: 330px;
+    width: 500px;
+    text-align: center;
+    margin-top: 50px;
+}
+.small{
+    height: 20px;
+    width: 300px;
+    margin-top: 10px;
+}
+input{
+    width: 400px;
+}
+button{
+    background-color: rgb(255, 255, 255);
+   margin-left: 50px;
+    border-radius: 5px;
+    height: 30px;
+    width: 400px;
+    background-color: rgb(5,144,255);
+}
+h1{
+    margin-right: 450px;
+    color: white;
+    margin-top: 50px;
+}

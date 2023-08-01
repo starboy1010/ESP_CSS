@@ -1,0 +1,53 @@
+body{
+    background:url(https://wallpapertag.com/wallpaper/full/a/2/c/135755-full-size-aqua-background-2048x1152.jpg);
+}
+#big{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    margin-top: 50px;
+}
+.a1{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 150px;
+    width: 350px;
+    margin-bottom: auto;
+    font-size: 20px;
+
+}
+h3{
+    margin-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#b{
+    background-color: rgb(5, 114, 255);
+    border-radius: 5px;
+    color: white;
+    width: 260px;
+    height: 30px;
+
+}
+span{
+    color: rgb(5, 114, 255);
+}
+#c{
+    height: 30px;
+    width: 270px;
+    /* box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px; */
+}
+label{
+    font-size: 15px;
+}
+.a2{
+    color: white;
+    margin-left: 30px;
+    height: 480px;
+    width: 370px;
+    font-weight: 20px;
+}
+p{
+    font-size:80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
